@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of cartoon me](C:\Users\Poncho\Documents\Projects\markdown-portfolio\_includes\cartoon_me.png)
