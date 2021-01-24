@@ -1,1 +1,0 @@
-![Image of cartoon me](C:\Users\Poncho\Documents\Projects\markdown-portfolio\_includes\cartoon_me.png)
